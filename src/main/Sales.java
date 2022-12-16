@@ -76,7 +76,7 @@ public class Sales extends javax.swing.JFrame {
 
         jLabel4.setFont(new java.awt.Font("Cascadia Code", 3, 22)); // NOI18N
         jLabel4.setForeground(new java.awt.Color(0, 0, 0));
-        jLabel4.setText("Item Quantity");
+        jLabel4.setText("Items Number:-");
 
         jLabel7.setFont(new java.awt.Font("Cascadia Code", 3, 36)); // NOI18N
         jLabel7.setForeground(new java.awt.Color(0, 0, 0));
