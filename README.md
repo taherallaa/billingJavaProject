@@ -4,5 +4,5 @@
 ![image one](/images/Billing_System.png)
           
 ### System when it  run
-~[image two](/images/Billing_System_Run.png)
+![image two](/images/Billing_System_Run.png)
           
