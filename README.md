@@ -1,8 +1,8 @@
-# billingJavaProject
+# Billing System for Mobile Shop
 
-### System when it not work
+### System When it Not Work
 ![image one](/images/Billing_System.png)
           
-### System when it  run
+### System When it  Work
 ![image two](/images/Billing_System_Run.png)
           
